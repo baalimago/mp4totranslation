@@ -1,0 +1,4 @@
+*.mp4
+.venv
+to_transcribe/*
+translations/*
