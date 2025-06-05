@@ -4,7 +4,9 @@
 
 Me and my girlfriend needed a tool to translate puppy videos from Swedish to English.
 
-It's quite generic, so I figured I can just publish it on git
+It's quite generic, so I figured I can just publish it on git.
+
+Any language that OpenAI whisperer supports will work, and it will translate to English, one sentence per row.
 
 ## How to use
 
