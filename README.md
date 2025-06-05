@@ -1,6 +1,6 @@
 # Mp4 to translation
 
-![Mp4 to translation](img/readme.jpg)![Mp4 to translation](img/readme.jpg)
+![Mp4 to translation](img/readme.jpg)
 
 Me and my girlfriend needed a tool to translate puppy videos from Swedish to English.
 
